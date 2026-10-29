@@ -1,0 +1,11 @@
+{
+  "name": "D ³ - Developer Plugin Loader",
+  "version": "1.0.0",
+  "contactEmailAddress": "noreply@example.com",
+  "hasSettingsIcon": true,
+  "hasRibbonIcon": true,
+  "requiredDependencies": {
+    "prettyui": 6398181
+  },
+  "optionalDependencies": {}
+}
